@@ -1,4 +1,4 @@
-Feature : Food to be eaten
+Feature : Food to be beaten
 
 Scenario: Eating food
 Given I have Eaten
